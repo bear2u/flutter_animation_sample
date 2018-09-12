@@ -5,8 +5,8 @@ A Animation Flutter Sample.
 # Screen Shot
 
 
-<img src="https://github.com/bear2u/flutter_animation_sample/blob/master/stop.jpg" width="200" height="400" />
-<img src="https://github.com/bear2u/flutter_animation_sample/blob/master/start.gif" width="200" height="400" />
+<img src="https://github.com/bear2u/flutter_animation_sample/blob/master/stop.jpg" width="300" height="400" />
+<img src="https://github.com/bear2u/flutter_animation_sample/blob/master/start.gif" width="300" height="400" />
 ![before start](https://github.com/bear2u/flutter_animation_sample/blob/master/stop.jpg | width=100)
 ![start](https://github.com/bear2u/flutter_animation_sample/blob/master/start.gif | width=100)
 
