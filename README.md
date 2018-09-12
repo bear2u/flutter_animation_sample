@@ -5,7 +5,7 @@ A Animation Flutter Sample.
 # Screen Shot
 
 ![before start](https://github.com/bear2u/flutter_animation_sample/blob/master/stop.jpg)
-![start](https://github.com/bear2u/flutter_animation_sample/blob/master/start.jpg)
+![start](https://github.com/bear2u/flutter_animation_sample/blob/master/start.gif)
 
 
 
